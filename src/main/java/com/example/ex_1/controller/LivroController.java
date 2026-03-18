@@ -1,7 +1,7 @@
-package com.example.lista_exercicios.controller;
+package com.example.ex_1.controller;
 
-import com.example.lista_exercicios.model.Livro;
-import com.example.lista_exercicios.service.LivroService;
+import com.example.ex_1.model.Livro;
+import com.example.ex_1.service.LivroService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

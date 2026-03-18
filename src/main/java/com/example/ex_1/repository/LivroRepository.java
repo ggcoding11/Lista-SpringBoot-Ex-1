@@ -1,6 +1,6 @@
-package com.example.lista_exercicios.repository;
+package com.example.ex_1.repository;
 
-import com.example.lista_exercicios.model.Livro;
+import com.example.ex_1.model.Livro;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

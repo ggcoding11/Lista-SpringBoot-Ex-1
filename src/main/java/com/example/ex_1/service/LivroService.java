@@ -1,7 +1,7 @@
-package com.example.lista_exercicios.service;
+package com.example.ex_1.service;
 
-import com.example.lista_exercicios.model.Livro;
-import com.example.lista_exercicios.repository.LivroRepository;
+import com.example.ex_1.model.Livro;
+import com.example.ex_1.repository.LivroRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

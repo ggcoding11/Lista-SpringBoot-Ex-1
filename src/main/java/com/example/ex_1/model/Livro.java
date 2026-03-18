@@ -1,4 +1,4 @@
-package com.example.lista_exercicios.model;
+package com.example.ex_1.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
